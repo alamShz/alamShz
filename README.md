@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/736x/f4/f3/f8/f4f3f83c2171a4c6db4a2445c6d7b2f3.jpg" alt="Description of image">
 <br>
 
-*   🌍  I'm based in India
+[*   🌍  I'm based in India
 *   ✉️  You can contact me at [alamstack@gmail.com](mailto:alamstack@gmail.com)
 *   🧠  I'm currently learning Web Development
 *   💬  Ask me about I'm Tony Stark
@@ -19,3 +19,4 @@
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/alamshz"><img src="https://github-readme-stats.vercel.app/api?username=alamshz&show_icons=true&hide=prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="alamshz's GitHub stats" /></a>
+](https://i.pinimg.com/736x/f4/f3/f8/f4f3f83c2171a4c6db4a2445c6d7b2f3.jpg)
