@@ -10,15 +10,7 @@
 * Tools: Git, GitHub, Bash,VS Code
 
 ---
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=alamshz\&show_icons=true\&theme=tokyonight)
-
----
-
 ## 📫 Contact
 
 * GitHub: https://github.com/alamshz
 * Email: [alamstack@gmail.com](mailto:alamstack@gmail.com)
-
